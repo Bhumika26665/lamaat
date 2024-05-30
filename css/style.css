@@ -130,6 +130,9 @@ body {
 		/* border-radius: 15%; */
 		margin-left: 10%;
 	}
+	.context-dark div .product-creative-text > *, .bg-gray-900 div .product-creative-text > *, .bg-gray-950 div .product-creative-text > *, .bg-primary div .product-creative-text > * {
+	color: #fff;
+}
 }
 
 @media (min-width: 992px) {
