@@ -7866,7 +7866,7 @@ html [class*='section-'].section-bottom-0 {
 */
 .animated {
 	-webkit-animation-duration: 1s;
-	animation-duration: 1s;
+	animation-duration: 2s;
 	-webkit-animation-fill-mode: both;
 	animation-fill-mode: both;
 	opacity: 1;
